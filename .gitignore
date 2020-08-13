@@ -1,0 +1,11 @@
+.idea/
+__pycache__/
+shutil
+os
+configparser
+.callbacks.py
+*.pyc
+*.swp
+*.py~
+*~
+*.db
